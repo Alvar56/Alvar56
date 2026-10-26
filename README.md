@@ -1,4 +1,4 @@
-### Hi, I'm Alvar 👋
+
 
 **Biotechnologist (MSc, BOKU Vienna)** working where the bench meets the computer: I clone,
 transform, grow and image plants, and I use structural bioinformatics to decide what is worth
